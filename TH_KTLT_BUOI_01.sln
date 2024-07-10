@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TH_KTLT_BUOI_01", "TH_KTLT_BUOI_01.vcxproj", "{400BE46B-EA9E-4BD2-B09D-5A8B657104F4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BaiTap5", "TH_KTLT_BUOI_01.vcxproj", "{400BE46B-EA9E-4BD2-B09D-5A8B657104F4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BaiTap6", "..\BaiTap6\BaiTap6.vcxproj", "{FA60F8CB-F720-42C4-A824-737880D932A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{400BE46B-EA9E-4BD2-B09D-5A8B657104F4}.Release|x64.Build.0 = Release|x64
 		{400BE46B-EA9E-4BD2-B09D-5A8B657104F4}.Release|x86.ActiveCfg = Release|Win32
 		{400BE46B-EA9E-4BD2-B09D-5A8B657104F4}.Release|x86.Build.0 = Release|Win32
+		{FA60F8CB-F720-42C4-A824-737880D932A6}.Debug|x64.ActiveCfg = Debug|x64
+		{FA60F8CB-F720-42C4-A824-737880D932A6}.Debug|x64.Build.0 = Debug|x64
+		{FA60F8CB-F720-42C4-A824-737880D932A6}.Debug|x86.ActiveCfg = Debug|Win32
+		{FA60F8CB-F720-42C4-A824-737880D932A6}.Debug|x86.Build.0 = Debug|Win32
+		{FA60F8CB-F720-42C4-A824-737880D932A6}.Release|x64.ActiveCfg = Release|x64
+		{FA60F8CB-F720-42C4-A824-737880D932A6}.Release|x64.Build.0 = Release|x64
+		{FA60F8CB-F720-42C4-A824-737880D932A6}.Release|x86.ActiveCfg = Release|Win32
+		{FA60F8CB-F720-42C4-A824-737880D932A6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
